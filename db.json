@@ -234,7 +234,6 @@
       "api": "http://ffzy5.tv/api.php/provide/vod/",
       "active": true
     },
-    // 以下是从B中新增的不重复API条目
     {
       "key": "dbvod",
       "name": "豆瓣|点播",
