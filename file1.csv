@@ -1,0 +1,176 @@
+IP,ORIGIN,CERT_DOMAIN,CERT_ISSUER,GEO_CODE
+107.173.140.149,107.173.140.149,trux.dev,"Let's Encrypt",N/A
+107.173.140.36,107.173.140.36,newswimunit.top,"Let's Encrypt",N/A
+107.173.140.243,107.173.140.243,Cloudflare,"Cloudflare, Inc.",N/A
+107.173.140.104,107.173.140.104,siop26.sbs,"Let's Encrypt",N/A
+107.173.140.138,107.173.140.138,cloudflare-dns.com,"DigiCert Inc",N/A
+107.173.140.242,107.173.140.242,cloud.altera.com,"DigiCert Inc",N/A
+107.173.140.14,107.173.140.14,*.cdn.myqcloud.com,"TrustAsia Technologies, Inc.",N/A
+107.173.144.110,107.173.144.110,cc.fndiai.com,"Let's Encrypt",N/A
+107.173.135.150,107.173.135.150,CloudFlare Origin Certificate,"CloudFlare, Inc.",N/A
+107.173.135.142,107.173.135.142,example.com,"example.com",N/A
+107.173.135.151,107.173.135.151,example.com,"example.com",N/A
+107.173.146.15,107.173.146.15,www.cloudflare.com,"Google Trust Services",N/A
+107.173.146.68,107.173.146.68,h2sheji.com,"Let's Encrypt",N/A
+107.173.146.146,107.173.146.146,dundun.newplm.com,"Let's Encrypt",N/A
+107.173.146.157,107.173.146.157,bj.c0c123.xyz,"Let's Encrypt",N/A
+107.173.146.147,107.173.146.147,go.uio.men,"Let's Encrypt",N/A
+107.173.146.141,107.173.146.141,localhost,"FIT2CLOUD",N/A
+107.173.146.59,107.173.146.59,rn1.060666.xyz,"Let's Encrypt",N/A
+107.173.135.14,107.173.135.14,cloudflare-dns.com,"DigiCert Inc",N/A
+107.173.146.145,107.173.146.145,Common Name,"Organization",N/A
+107.173.135.31,107.173.135.31,RunCloud Web Certificate,"RunCloud Sdn. Bhd.",N/A
+107.173.146.210,107.173.146.210,tuhbnuubtygyv.top,"Let's Encrypt",N/A
+107.173.146.173,107.173.146.173,*.bubai.top,"ZeroSSL",N/A
+107.173.146.238,107.173.146.238,morpheusyin.com,"Let's Encrypt",N/A
+107.173.146.208,107.173.146.208,*.yuan25.dpdns.org,"Let's Encrypt",N/A
+107.173.146.240,107.173.146.240,trumpmail.space,"Let's Encrypt",N/A
+107.173.147.71,107.173.147.71,CloudFlare Origin Certificate,"CloudFlare, Inc.",N/A
+107.173.146.187,107.173.146.187,file.spage.jp,"Let's Encrypt",N/A
+107.173.147.59,107.173.147.59,gedong.net,"Let's Encrypt",N/A
+107.173.147.123,107.173.147.123,bigvillage.top,"Let's Encrypt",N/A
+107.173.147.213,107.173.147.213,amz.te.usfe.top,"ZeroSSL",N/A
+107.173.147.226,107.173.147.226,Just One Site,"Heyo Company",N/A
+107.173.147.238,107.173.147.238,cloudflare-dns.com,"DigiCert Inc",N/A
+107.173.147.190,107.173.147.190,v6.fengliye.com,"Let's Encrypt",N/A
+107.173.147.126,107.173.147.126,Common Name,"Organization",N/A
+107.173.148.36,107.173.148.36,catsnotfound.xyz,"Let's Encrypt",N/A
+107.173.148.69,107.173.148.69,107.173.148.69,"Hostvn",N/A
+107.173.148.108,107.173.148.108,90099009.xyz,"Let's Encrypt",N/A
+107.173.148.109,107.173.148.109,f1.getllm.site,"Let's Encrypt",N/A
+107.173.148.159,107.173.148.159,qb.110077.xyz,"Let's Encrypt",N/A
+107.173.148.93,107.173.148.93,test.fengguo.me,"Let's Encrypt",N/A
+107.173.148.201,107.173.148.201,blog.978021.xyz,"Let's Encrypt",N/A
+107.173.148.143,107.173.148.143,CloudFlare Origin Certificate,"CloudFlare, Inc.",N/A
+107.173.149.7,107.173.149.7,CloudFlare Origin Certificate,"CloudFlare, Inc.",N/A
+107.173.148.152,107.173.148.152,bigqq.icu,"ZeroSSL",N/A
+107.173.149.19,107.173.149.19,brokennovel.com,"Let's Encrypt",N/A
+107.173.149.41,107.173.149.41,Common Name,"Organization",N/A
+107.173.148.208,107.173.148.208,vps3.333636.xyz,"Let's Encrypt",N/A
+107.173.149.114,107.173.149.114,us-r-sjc.minghsui.com,"Let's Encrypt",N/A
+107.173.149.76,107.173.149.76,phoenix.dlatc.com,"ZeroSSL",N/A
+107.173.149.11,107.173.149.11,*.firo.kr,"Let's Encrypt",N/A
+107.173.149.49,107.173.149.49,localhost,"FIT2CLOUD",N/A
+107.173.149.239,107.173.149.239,chuanus.pp.ua,"Let's Encrypt",N/A
+107.173.149.248,107.173.149.248,CloudFlare Origin Certificate,"CloudFlare, Inc.",N/A
+107.173.152.22,107.173.152.22,cloudflare-dns.com,"DigiCert Inc",N/A
+107.173.152.26,107.173.152.26,ch.hk.cn,"Let's Encrypt",N/A
+107.173.152.46,107.173.152.46,n.sni-347-default.ssl.fastly.net,"GlobalSign nv-sa",N/A
+107.173.152.45,107.173.152.45,mexicoresidency.ldtp.com,"Let's Encrypt",N/A
+107.173.152.129,107.173.152.129,-,"-",N/A
+107.173.152.155,107.173.152.155,km14.keac.com,"Let's Encrypt",N/A
+107.173.152.15,107.173.152.15,rn.jasonted.org,"Let's Encrypt",N/A
+107.173.152.249,107.173.152.249,Kubernetes Ingress Controller Fake Certificate,"Acme Co",N/A
+107.173.153.36,107.173.153.36,a.d2dwtcjz.top,"ZeroSSL",N/A
+107.173.152.247,107.173.152.247,vest.cheerus.top,"Let's Encrypt",N/A
+107.173.152.177,107.173.152.177,fengyue.cfd,"ZeroSSL",N/A
+107.173.152.167,107.173.152.167,107.173.152.167,"ZeroSSL",N/A
+107.173.152.245,107.173.152.245,niahsdpajfp88.online,"Let's Encrypt",N/A
+107.173.153.104,107.173.153.104,a.d2dwtcjz.top,"ZeroSSL",N/A
+107.173.127.248,107.173.127.248,ch.000170.xyz,"Let's Encrypt",N/A
+107.173.152.173,107.173.152.173,*.clanxie.life,"Let's Encrypt",N/A
+107.173.127.226,107.173.127.226,orii.top,"Let's Encrypt",N/A
+107.173.153.120,107.173.153.120,zz2500.top,"Let's Encrypt",N/A
+107.173.127.209,107.173.127.209,panel.laurastaatsart.com,"Let's Encrypt",N/A
+107.173.153.158,107.173.153.158,www.cloudflare.com,"Google Trust Services",N/A
+107.173.127.195,107.173.127.195,localhost,"FIT2CLOUD",N/A
+107.173.127.183,107.173.127.183,ushvh.556670.xyz,"Let's Encrypt",N/A
+107.173.127.182,107.173.127.182,linux.9abaa9.com,"Dis",N/A
+107.173.127.170,107.173.127.170,www.xiaowu.edu.kg,"Let's Encrypt",N/A
+107.173.153.106,107.173.153.106,www.hvip.com.tw,"Let's Encrypt",N/A
+107.173.153.155,107.173.153.155,demo.868404.xyz,"Let's Encrypt",N/A
+107.173.127.152,107.173.127.152,b93f2b9970.kktvb.com,"Let's Encrypt",N/A
+107.173.127.134,107.173.127.134,localhost,"FIT2CLOUD",N/A
+107.173.127.131,107.173.127.131,wjdc.ahshotel.com,"ZeroSSL",N/A
+107.173.127.133,107.173.127.133,ccla.thniy.top,"Let's Encrypt",N/A
+107.173.127.121,107.173.127.121,n.sni-347-default.ssl.fastly.net,"GlobalSign nv-sa",N/A
+107.173.127.111,107.173.127.111,*.mansns.com,"Let's Encrypt",N/A
+107.173.127.103,107.173.127.103,ai.whaty.org,"Let's Encrypt",N/A
+107.173.153.214,107.173.153.214,bark.acolevia.space,"Let's Encrypt",N/A
+107.173.127.102,107.173.127.102,rn2.751970186.xyz,"ZeroSSL",N/A
+107.173.153.166,107.173.153.166,gobblesnbits.com,"Let's Encrypt",N/A
+107.173.153.199,107.173.153.199,goldenpfish.top,"Let's Encrypt",N/A
+107.173.153.142,107.173.153.142,chinadetour.com,"Let's Encrypt",N/A
+107.173.127.51,107.173.127.51,kekangroup.com,"Let's Encrypt",N/A
+107.173.127.43,107.173.127.43,bantmarketing.com,"Let's Encrypt",N/A
+107.173.153.198,107.173.153.198,womensrollerhockey.com,"Let's Encrypt",N/A
+107.173.154.11,107.173.154.11,www.tweetlen.com,"Let's Encrypt",N/A
+107.173.127.36,107.173.127.36,potey.boerum.dev,"Let's Encrypt",N/A
+107.173.127.33,107.173.127.33,cs.gmycf.com,"Let's Encrypt",N/A
+107.173.127.24,107.173.127.24,hestia.custypes.com,"Hestia Control Panel",N/A
+107.173.154.58,107.173.154.58,CloudFlare Origin Certificate,"CloudFlare, Inc.",N/A
+107.173.127.12,107.173.127.12,yahoo.com,"DigiCert Inc",N/A
+107.173.154.4,107.173.154.4,CloudFlare Origin Certificate,"CloudFlare, Inc.",N/A
+107.173.154.6,107.173.154.6,CloudFlare Origin Certificate,"CloudFlare, Inc.",N/A
+107.173.154.131,107.173.154.131,bbs.yjdx.top,"Let's Encrypt",N/A
+107.173.153.134,107.173.153.134,rn.sunny-stars.sbs,"Let's Encrypt",N/A
+107.173.154.115,107.173.154.115,ronnie79.xyz,"Let's Encrypt",N/A
+107.173.154.49,107.173.154.49,uc-key.com,"Let's Encrypt",N/A
+107.173.154.211,107.173.154.211,CloudFlare Origin Certificate,"CloudFlare, Inc.",N/A
+107.173.154.207,107.173.154.207,*.21cn.com,"WoTrus CA Limited",N/A
+107.173.154.150,107.173.154.150,uss.142753.xyz,"Let's Encrypt",N/A
+107.173.154.187,107.173.154.187,test.ht516.site,"Let's Encrypt",N/A
+107.173.154.201,107.173.154.201,www.alean.sbs,"Let's Encrypt",N/A
+107.173.155.26,107.173.155.26,code.yumekei.org,"Let's Encrypt",N/A
+107.173.155.69,107.173.155.69,example.com,"Organization",N/A
+107.173.155.42,107.173.155.42,dev.dandere.com,"Let's Encrypt",N/A
+107.173.154.246,107.173.154.246,me.moss.edu.kg,"Let's Encrypt",N/A
+107.173.155.77,107.173.155.77,n.sni-347-default.ssl.fastly.net,"GlobalSign nv-sa",N/A
+107.173.155.154,107.173.155.154,acc.xdian.eu.org,"Let's Encrypt",N/A
+107.173.155.16,107.173.155.16,CloudFlare Origin Certificate,"CloudFlare, Inc.",N/A
+107.173.155.80,107.173.155.80,base.monkeycourse.com,"Let's Encrypt",N/A
+107.173.155.182,107.173.155.182,Common Name,"Organization",N/A
+107.173.155.57,107.173.155.57,CloudFlare Origin Certificate,"CloudFlare, Inc.",N/A
+107.173.155.185,107.173.155.185,127.0.0.1,"宝塔面板",N/A
+107.173.155.200,107.173.155.200,2fafb.live,"Let's Encrypt",N/A
+107.173.155.146,107.173.155.146,blog.qssky.com,"Let's Encrypt",N/A
+107.173.156.6,107.173.156.6,www.cloudflare.com,"Google Trust Services",N/A
+107.173.155.156,107.173.155.156,localhost,"YourOrganization",N/A
+107.173.155.75,107.173.155.75,*.pgmg.cf,"Let's Encrypt",N/A
+107.173.155.147,107.173.155.147,yunohost.org,"yunohost",N/A
+107.173.125.150,107.173.125.150,InTheForest,"ForestProject",N/A
+107.173.125.103,107.173.125.103,CloudFlare Origin Certificate,"CloudFlare, Inc.",N/A
+107.173.125.109,107.173.125.109,teamuchida.maiansoftware.com,"Let's Encrypt",N/A
+107.173.155.140,107.173.155.140,www.arsys.cf,"Let's Encrypt",N/A
+107.173.156.161,107.173.156.161,asshole2026.xyz,"Let's Encrypt",N/A
+107.173.156.182,107.173.156.182,*.digitaleast.mobi,"DigiCert Inc",N/A
+107.173.156.158,107.173.156.158,drasl.stardust.wtf,"Let's Encrypt",N/A
+107.173.156.197,107.173.156.197,us.surlhub.cc,"Let's Encrypt",N/A
+107.173.156.187,107.173.156.187,1362878.xyz,"ZeroSSL",N/A
+107.173.156.230,107.173.156.230,eth88.space,"Let's Encrypt",N/A
+107.173.156.180,107.173.156.180,pan.spacex-api.com,"Let's Encrypt",N/A
+107.173.156.177,107.173.156.177,1Panel-CA,"FIT2CLOUD",N/A
+107.173.156.194,107.173.156.194,haley.ca.3cx.us,"Let's Encrypt",N/A
+107.173.156.121,107.173.156.121,status.zhangxinzhuo.com,"Let's Encrypt",N/A
+107.173.156.130,107.173.156.130,bbs.1819.net,"ZeroSSL",N/A
+107.173.156.118,107.173.156.118,cloud.altera.com,"DigiCert Inc",N/A
+107.173.156.122,107.173.156.122,www.91zgdvd.top,"Let's Encrypt",N/A
+107.173.157.25,107.173.157.25,pantheonsite.io,"Let's Encrypt",N/A
+107.173.156.201,107.173.156.201,localhost,"FIT2CLOUD",N/A
+107.173.156.189,107.173.156.189,cloudflare-dns.com,"DigiCert Inc",N/A
+107.173.157.81,107.173.157.81,02140214.xyz,"Let's Encrypt",N/A
+107.173.156.246,107.173.156.246,www.cnphotoist.com,"Let's Encrypt",N/A
+107.173.123.247,107.173.123.247,gochangesolar.com,"Let's Encrypt",N/A
+107.173.157.129,107.173.157.129,950027.xyz,"ZeroSSL",N/A
+107.173.157.73,107.173.157.73,CloudFlare Origin Certificate,"CloudFlare, Inc.",N/A
+107.173.123.223,107.173.123.223,560660.xyz,"Let's Encrypt",N/A
+107.173.123.220,107.173.123.220,science.555661.xyz,"Let's Encrypt",N/A
+107.173.123.214,107.173.123.214,sxkiss.com,"Let's Encrypt",N/A
+107.173.123.204,107.173.123.204,crackwp.ir,"Let's Encrypt",N/A
+107.173.157.147,107.173.157.147,ss.ledluz.tk,"Let's Encrypt",N/A
+107.173.123.187,107.173.123.187,miguelcarsi.ooguy.com,"Let's Encrypt",N/A
+107.173.123.183,107.173.123.183,pc1-telegram.com,"Let's Encrypt",N/A
+107.173.157.122,107.173.157.122,www.cloudflare.com,"Google Trust Services",N/A
+107.173.123.180,107.173.123.180,a.askx.site,"Let's Encrypt",N/A
+107.173.123.173,107.173.123.173,besttrade24.com,"Let's Encrypt",N/A
+107.173.157.39,107.173.157.39,*.capple.top,"Let's Encrypt",N/A
+107.173.123.154,107.173.123.154,localhost,"FIT2CLOUD",N/A
+107.173.123.153,107.173.123.153,Cloudflare,"Cloudflare, Inc.",N/A
+107.173.157.142,107.173.157.142,sm.thaiju.none.94023165.xyz,"Let's Encrypt",N/A
+107.173.157.163,107.173.157.163,mail.sordv.top,"Let's Encrypt",N/A
+107.173.123.144,107.173.123.144,Common Name,"Organization",N/A
+107.173.123.147,107.173.123.147,images.apple.com,"Apple Inc.",N/A
+107.173.123.142,107.173.123.142,auroratrade.live,"Let's Encrypt",N/A
+107.173.157.180,107.173.157.180,CloudFlare Origin Certificate,"CloudFlare, Inc.",N/A
+107.173.157.245,107.173.157.245,s2.linyile.ltd,"ZeroSSL",N/A
+107.173.157.210,107.173.157.210,Plesk,"Plesk",N/A
